@@ -1,0 +1,65 @@
+
+.margenTotal
+{
+	margin-top: 0px;
+	margin-right: 200px;
+	margin-bottom: 280px;
+	margin-left: 200px;
+}
+.cabeza
+{
+	text-align: center;
+	border: 1px solid black;
+	background-color: orange;
+	width: 700px;
+}
+
+.fila1
+{
+	text-align: center;
+	border: 1px solid black;
+	width: 200px;
+	height: 500px;
+	/*display: inline-block;*/
+	overflow: hidden;
+	float: left;/*se colocan los cuadros uno al lado del otro*/
+}
+
+.fila2
+{
+	text-align: center;
+	border: 1px solid black;
+	width: 300px;
+	height: 500px;
+	display: inline-block;
+	/*display: inline-block;*/
+	overflow: hidden;
+	float: left;
+}
+
+.fila3
+{
+	text-align: center;
+	border: 1px solid black;
+	width: 200px;
+	height: 500px;
+	/*display: inline-block;*/
+	overflow: hidden;
+	float: left;
+}
+
+.abajo
+{
+	text-align: center;
+	border: 1px solid black;
+	background-color: orange;
+	width: 700px;
+}
+
+
+.monopoly01
+{
+	position: absolute;
+	left: 10px;
+	top: 400px;
+}
